@@ -3,6 +3,8 @@ import RightSection from './RightSection';
 import hero from '../Image/hero.png'; // your character-style image
 import sakamoto from '../Image/sakamoto.png'
 import r1 from '../Image/r1.png';
+import k1 from '../Image/k1.png';
+import k2 from '../Image/k2.png';
 import r2 from '../Image/r2.png';
 import r3 from '../Image/r3.png';
 import r4 from '../Image/r4.png';
@@ -34,9 +36,9 @@ const Hero = () => {
 
       {/* Character Image */}
       <img
-        src={hero}
+        src={k1}
         alt="Character"
-        className="absolute left-1/2 top-1/2 transform -translate-x-0.5 -translate-y-1/2 h-[90%] rounded-full object-contain z-20 pointer-events-none drop-shadow-[-18px_8px_4px_rgba(0,0,0,0.7)]"
+        className="absolute left-1/2 top-1/2 transform -translate-x-15.5 -translate-y-1/2 h-[80%] rounded-full object-contain z-20 pointer-events-none drop-shadow-[-18px_8px_4px_rgba(0,0,0,0.7)]"
       />
     </div>
   );
