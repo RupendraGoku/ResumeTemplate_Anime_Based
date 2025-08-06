@@ -59,7 +59,7 @@ I took inspiration from an anime channel’s visuals and:
 
 ## 🌸 My Design Inspiration (Excalidraw + Anime)
 
-I first planned the structure and vibe using [Excalidraw](https://excalidraw.com/) and got the anime feel from aesthetic-focused anime channels. The whole mood pushed me to build something that feels like a digital shrine to my love for creativity + coding.
+I first planned the structure and vibe using [Excalidraw](https://excalidraw.com/) and got the anime feel from aesthetic-focused anime channels. The whole mood pushed me to build something that feels like a digital shrine to my love for creativity + coding + anime.
 
 <img width="1197" height="900" alt="image" src="https://github.com/user-attachments/assets/acc9b415-2101-47d0-9f57-096a5b1a1ee2" />
 
